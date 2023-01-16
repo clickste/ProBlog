@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "SP",
+    "title": "Stephen Pendred - Technical Analyst &amp; Trainer",
     "description": "",
     "home_page_url": "https://clickste.github.io/ProBlog",
     "feed_url": "https://clickste.github.io/ProBlog/feed.json",
@@ -10,9 +10,100 @@
     },
     "items": [
         {
-            "id": "https://clickste.github.io/ProBlog/passwords-mean.html",
-            "url": "https://clickste.github.io/ProBlog/passwords-mean.html",
-            "title": "passwords mean",
+            "id": "https://clickste.github.io/ProBlog/why-is-the-wall-made-of-elbows/",
+            "url": "https://clickste.github.io/ProBlog/why-is-the-wall-made-of-elbows/",
+            "title": "Why is the wall made of Elbows?",
+            "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;",
+            "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/7/th.jpg",
+            "author": {
+                "name": "Stephen Pendred"
+            },
+            "tags": [
+                   "Training",
+                   "Interesting",
+                   "Friday Observation"
+            ],
+            "date_published": "2023-01-16T11:26:00+00:00",
+            "date_modified": "2023-01-16T12:31:22+00:00"
+        },
+        {
+            "id": "https://clickste.github.io/ProBlog/cannonballs-and-you/",
+            "url": "https://clickste.github.io/ProBlog/cannonballs-and-you/",
+            "title": "Cannonballs and You",
+            "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;",
+            "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/6/th-2.jpg",
+            "author": {
+                "name": "Stephen Pendred"
+            },
+            "tags": [
+                   "Quick Tips",
+                   "Friday Observation",
+                   "Fanta"
+            ],
+            "date_published": "2023-01-16T11:25:33+00:00",
+            "date_modified": "2023-01-16T12:32:41+00:00"
+        },
+        {
+            "id": "https://clickste.github.io/ProBlog/something-about-dogs/",
+            "url": "https://clickste.github.io/ProBlog/something-about-dogs/",
+            "title": "Something about dogs",
+            "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;",
+            "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/5/th-3.jpg",
+            "author": {
+                "name": "Stephen Pendred"
+            },
+            "tags": [
+                   "Training",
+                   "Quick Tips"
+            ],
+            "date_published": "2023-01-16T11:25:17+00:00",
+            "date_modified": "2023-01-16T12:31:39+00:00"
+        },
+        {
+            "id": "https://clickste.github.io/ProBlog/getting-your-machine-to-run-faster/",
+            "url": "https://clickste.github.io/ProBlog/getting-your-machine-to-run-faster/",
+            "title": "Getting your machine to run faster",
+            "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;",
+            "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/4/pexels-veeterzy-303383.jpg",
+            "author": {
+                "name": "Stephen Pendred"
+            },
+            "tags": [
+                   "Training",
+                   "Quick Tips",
+                   "Interesting",
+                   "Friday Observation",
+                   "Fanta",
+                   "Coca Cola"
+            ],
+            "date_published": "2023-01-16T11:18:52+00:00",
+            "date_modified": "2023-01-16T13:01:44+00:00"
+        },
+        {
+            "id": "https://clickste.github.io/ProBlog/something-about-printers/",
+            "url": "https://clickste.github.io/ProBlog/something-about-printers/",
+            "title": "Something about printers",
+            "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;",
+            "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/3/download-2.jpg",
+            "author": {
+                "name": "Stephen Pendred"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-16T11:17:28+00:00",
+            "date_modified": "2023-01-16T12:31:30+00:00"
+        },
+        {
+            "id": "https://clickste.github.io/ProBlog/passwords-mean/",
+            "url": "https://clickste.github.io/ProBlog/passwords-mean/",
+            "title": "time of the month",
+            "summary": "I've worked with a multitude people over the years, all different levels of technical experience - some people who can't&hellip;",
+            "content_html": "<p>I've worked with a multitude people over the years, all different levels of technical experience - some people who can't turn a computer on, others who could build an office of new computers. They are all had one thing in common - they HATED password change day.</p>",
             "image": "https://clickste.github.io/ProBlog/media/posts/2/pexels-photo-2882630-2.jpeg",
             "author": {
                 "name": "Stephen Pendred"
@@ -20,20 +111,22 @@
             "tags": [
             ],
             "date_published": "2023-01-16T10:32:14+00:00",
-            "date_modified": "2023-01-16T10:32:14+00:00"
+            "date_modified": "2023-01-16T12:45:41+00:00"
         },
         {
-            "id": "https://clickste.github.io/ProBlog/printers-fun.html",
-            "url": "https://clickste.github.io/ProBlog/printers-fun.html",
-            "title": "printers fun",
-            "image": "https://clickste.github.io/ProBlog/media/posts/1/pexels-photo-2882630-1.jpeg",
+            "id": "https://clickste.github.io/ProBlog/printers-fun/",
+            "url": "https://clickste.github.io/ProBlog/printers-fun/",
+            "title": "Some of the most heartwrenching words you can hear from a customer",
+            "summary": "Usually late on a Sunday and the immortal words 'I've been working on a document all weekend, and I think&hellip;",
+            "content_html": "<p>Usually late on a Sunday and the immortal words 'I've been working on a document all weekend, and I think I've just lost everything'</p>",
+            "image": "https://clickste.github.io/ProBlog/media/posts/1/pexels-junior-teixeira-2047905.jpg",
             "author": {
                 "name": "Stephen Pendred"
             },
             "tags": [
             ],
             "date_published": "2023-01-16T10:31:20+00:00",
-            "date_modified": "2023-01-16T10:31:46+00:00"
+            "date_modified": "2023-01-16T12:50:42+00:00"
         }
     ]
 }

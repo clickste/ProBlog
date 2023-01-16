@@ -1,38 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>SP</title>
+    <title>Stephen Pendred - Technical Analyst &amp; Trainer</title>
     <link href="https://clickste.github.io/ProBlog/feed.xml" rel="self" />
     <link href="https://clickste.github.io/ProBlog" />
-    <updated>2023-01-16T10:32:14+00:00</updated>
+    <updated>2023-01-16T13:01:44+00:00</updated>
     <author>
         <name>Stephen Pendred</name>
     </author>
     <id>https://clickste.github.io/ProBlog</id>
 
     <entry>
-        <title>passwords mean</title>
+        <title>Why is the wall made of Elbows?</title>
         <author>
             <name>Stephen Pendred</name>
         </author>
-        <link href="https://clickste.github.io/ProBlog/passwords-mean.html"/>
-        <id>https://clickste.github.io/ProBlog/passwords-mean.html</id>
-        <media:content url="https://clickste.github.io/ProBlog/media/posts/2/pexels-photo-2882630-2.jpeg" medium="image" />
+        <link href="https://clickste.github.io/ProBlog/why-is-the-wall-made-of-elbows/"/>
+        <id>https://clickste.github.io/ProBlog/why-is-the-wall-made-of-elbows/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/7/th.jpg" medium="image" />
+            <category term="Training"/>
+            <category term="Interesting"/>
+            <category term="Friday Observation"/>
 
-        <updated>2023-01-16T10:32:14+00:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-01-16T12:31:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/7/th.jpg" alt="" />
+                    Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/7/th.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>printers fun</title>
+        <title>Cannonballs and You</title>
         <author>
             <name>Stephen Pendred</name>
         </author>
-        <link href="https://clickste.github.io/ProBlog/printers-fun.html"/>
-        <id>https://clickste.github.io/ProBlog/printers-fun.html</id>
-        <media:content url="https://clickste.github.io/ProBlog/media/posts/1/pexels-photo-2882630-1.jpeg" medium="image" />
+        <link href="https://clickste.github.io/ProBlog/cannonballs-and-you/"/>
+        <id>https://clickste.github.io/ProBlog/cannonballs-and-you/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/6/th-2.jpg" medium="image" />
+            <category term="Quick Tips"/>
+            <category term="Friday Observation"/>
+            <category term="Fanta"/>
 
-        <updated>2023-01-16T10:31:46+00:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-01-16T12:32:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/6/th-2.jpg" alt="" />
+                    Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/6/th-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Something about dogs</title>
+        <author>
+            <name>Stephen Pendred</name>
+        </author>
+        <link href="https://clickste.github.io/ProBlog/something-about-dogs/"/>
+        <id>https://clickste.github.io/ProBlog/something-about-dogs/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/5/th-3.jpg" medium="image" />
+            <category term="Training"/>
+            <category term="Quick Tips"/>
+
+        <updated>2023-01-16T12:31:39+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/5/th-3.jpg" alt="" />
+                    Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/5/th-3.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Getting your machine to run faster</title>
+        <author>
+            <name>Stephen Pendred</name>
+        </author>
+        <link href="https://clickste.github.io/ProBlog/getting-your-machine-to-run-faster/"/>
+        <id>https://clickste.github.io/ProBlog/getting-your-machine-to-run-faster/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/4/pexels-veeterzy-303383.jpg" medium="image" />
+            <category term="Training"/>
+            <category term="Quick Tips"/>
+            <category term="Interesting"/>
+            <category term="Friday Observation"/>
+            <category term="Fanta"/>
+            <category term="Coca Cola"/>
+
+        <updated>2023-01-16T13:01:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/4/pexels-veeterzy-303383.jpg" alt="" />
+                    Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/4/pexels-veeterzy-303383.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Something about printers</title>
+        <author>
+            <name>Stephen Pendred</name>
+        </author>
+        <link href="https://clickste.github.io/ProBlog/something-about-printers/"/>
+        <id>https://clickste.github.io/ProBlog/something-about-printers/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/3/download-2.jpg" medium="image" />
+
+        <updated>2023-01-16T12:31:30+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/3/download-2.jpg" alt="" />
+                    Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/3/download-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>time of the month</title>
+        <author>
+            <name>Stephen Pendred</name>
+        </author>
+        <link href="https://clickste.github.io/ProBlog/passwords-mean/"/>
+        <id>https://clickste.github.io/ProBlog/passwords-mean/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/2/pexels-photo-2882630-2.jpeg" medium="image" />
+
+        <updated>2023-01-16T12:45:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/2/pexels-photo-2882630-2.jpeg" alt="" />
+                    I've worked with a multitude people over the years, all different levels of technical experience - some people who can't&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/2/pexels-photo-2882630-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>I've worked with a multitude people over the years, all different levels of technical experience - some people who can't turn a computer on, others who could build an office of new computers. They are all had one thing in common - they HATED password change day.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Some of the most heartwrenching words you can hear from a customer</title>
+        <author>
+            <name>Stephen Pendred</name>
+        </author>
+        <link href="https://clickste.github.io/ProBlog/printers-fun/"/>
+        <id>https://clickste.github.io/ProBlog/printers-fun/</id>
+        <media:content url="https://clickste.github.io/ProBlog/media/posts/1/pexels-junior-teixeira-2047905.jpg" medium="image" />
+
+        <updated>2023-01-16T12:50:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickste.github.io/ProBlog/media/posts/1/pexels-junior-teixeira-2047905.jpg" alt="" />
+                    Usually late on a Sunday and the immortal words 'I've been working on a document all weekend, and I think&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://clickste.github.io/ProBlog/media/posts/1/pexels-junior-teixeira-2047905.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Usually late on a Sunday and the immortal words 'I've been working on a document all weekend, and I think I've just lost everything'</p>
+            ]]>
+        </content>
     </entry>
 </feed>
