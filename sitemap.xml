@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://clickste.github.io/ProBlog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://clickste.github.io/ProBlog/</loc>
+</url>
+<url>
+<loc>https://clickste.github.io/ProBlog/passwords-mean.html</loc>
+<lastmod>2023-01-16T10:32:14+00:00</lastmod>
+<image:image>
+<image:loc>https://clickste.github.io/ProBlog/media\posts\2/pexels-photo-2882630-2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://clickste.github.io/ProBlog/printers-fun.html</loc>
+<lastmod>2023-01-16T10:31:46+00:00</lastmod>
+<image:image>
+<image:loc>https://clickste.github.io/ProBlog/media\posts\1/pexels-photo-2882630-1.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
